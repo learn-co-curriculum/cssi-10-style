@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+a {
+  color: #eeeeee;
+  text-decoration: none;
+}
+
+section {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width:100%;
+}
+
+#images {
+  color: #ffffff;
+  background-image:url("https://farm8.staticflickr.com/7403/8809765269_f11b47b055_o_d.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+.donts {
+  background-color: #ffac59;
+  color: white;
+}
+
+#Heirarchy {
+  background: #2ad781;
+  color: #ffffff;
+}
